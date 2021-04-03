@@ -1,0 +1,57 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\EFCache.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\EFCache.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csproj.CopyComplete
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Kelime_Oyunu - YEDEK - Kopya\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.AdminPanel.resources
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.exe.config
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.exe
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\Kelime_Oyunu.pdb
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\EFCache.dll
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\System.Data.SQLite.dll
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.xml
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\System.Data.SQLite.xml
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csprojAssemblyReference.cache
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.AdminPanel.resources
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csproj.GenerateResource.cache
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.csproj.CopyComplete
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.exe
+C:\Users\Monster\Downloads\Kelime Oyunu\Kelime Oyunu\Kelime_Oyunu\obj\Debug\Kelime_Oyunu.pdb
